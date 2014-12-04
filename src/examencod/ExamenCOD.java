@@ -1,11 +1,9 @@
+//CLONE
 
 package examencod;
 
 public class ExamenCOD {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
  int iN = 11;
             	if (metodoMio(iN))
